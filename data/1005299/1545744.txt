@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Макар", "last_name": "Тихомиров", "screen_name": "id1545744", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "24.2.1987", "nickname": "", "id": 1545744, "last_seen": {"platform": 2, "time": 1441743933}}

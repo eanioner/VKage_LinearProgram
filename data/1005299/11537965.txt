@@ -1,0 +1,1 @@
+{"city": {"id": 1, "title": "Москва"}, "first_name": "Дениска", "last_name": "Новиков", "screen_name": "id11537965", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "26.3", "nickname": "", "id": 11537965, "last_seen": {"platform": 7, "time": 1397633187}}

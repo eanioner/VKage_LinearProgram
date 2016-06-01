@@ -1,0 +1,1 @@
+{"city": {"id": 1086, "title": "Кондопога"}, "first_name": "Алексей", "last_name": "Немов", "screen_name": "nemovae", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "20.4.1980", "nickname": "", "id": 79387118, "last_seen": {"platform": 7, "time": 1441741340}}

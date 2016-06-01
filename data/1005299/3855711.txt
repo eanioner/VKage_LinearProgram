@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Валентина", "last_name": "Левина", "screen_name": "id3855711", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "27.2.1977", "nickname": "", "id": 3855711, "last_seen": {"platform": 4, "time": 1441751492}}

@@ -1,0 +1,1 @@
+{"city": {"id": 1, "title": "Москва"}, "first_name": "Настя", "last_name": "Челобаева", "screen_name": "chelobaeva98", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "26.3", "nickname": "", "id": 202150776, "last_seen": {"platform": 1, "time": 1382286520}}

@@ -1,0 +1,1 @@
+{"city": {"id": 314, "title": "Киев"}, "first_name": "Дмитрий", "last_name": "Гузов", "screen_name": "id8345185", "country": {"id": 2, "title": "Украина"}, "sex": 2, "bdate": "4.6", "nickname": "", "id": 8345185, "last_seen": {"platform": 7, "time": 1274090438}}

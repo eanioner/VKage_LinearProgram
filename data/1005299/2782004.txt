@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Вадим", "last_name": "Владимирович", "screen_name": "id2782004", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "10.6.1983", "nickname": "", "id": 2782004, "last_seen": {"platform": 7, "time": 1441621260}}

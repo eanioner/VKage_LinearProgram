@@ -1,0 +1,1 @@
+{"city": {"id": 169, "title": "Ярославль"}, "first_name": "Андрей-и-мария", "last_name": "Румянцевы", "screen_name": "id147962315", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "7.5.1986", "nickname": "", "id": 147962315, "last_seen": {"platform": 4, "time": 1441708684}}

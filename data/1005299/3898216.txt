@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Петр", "last_name": "Николаев", "screen_name": "id3898216", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "15.12.1981", "nickname": "", "id": 3898216, "last_seen": {"platform": 4, "time": 1438110883}}

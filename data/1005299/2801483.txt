@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Оксана", "last_name": "Пухова", "screen_name": "id2801483", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "11.5", "nickname": "", "id": 2801483, "last_seen": {"platform": 2, "time": 1441744375}}

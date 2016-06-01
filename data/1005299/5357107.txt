@@ -1,0 +1,1 @@
+{"city": {"id": 14374, "title": "Светлый"}, "first_name": "Сергей", "last_name": "Шавела", "screen_name": "id5357107", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "8.9", "nickname": "", "id": 5357107, "last_seen": {"platform": 4, "time": 1441740287}}

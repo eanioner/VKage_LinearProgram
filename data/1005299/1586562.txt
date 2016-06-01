@@ -1,0 +1,1 @@
+{"city": {"id": 1, "title": "Москва"}, "first_name": "Сергей", "last_name": "Сукачев", "screen_name": "id1586562", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "26.9", "nickname": "", "id": 1586562, "last_seen": {"platform": 1, "time": 1441736847}}

@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Настена", "last_name": "Калининская", "screen_name": "id971046", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "4.6.1984", "nickname": "", "id": 971046, "last_seen": {"platform": 2, "time": 1441747213}}

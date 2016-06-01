@@ -1,0 +1,1 @@
+{"city": {"id": 49, "title": "Екатеринбург"}, "first_name": "Денис", "last_name": "Ахматгалиев", "screen_name": "kvigas", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "31.10.1989", "nickname": "", "id": 10739700, "last_seen": {"platform": 4, "time": 1441740215}}

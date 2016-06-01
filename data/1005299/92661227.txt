@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Макс", "last_name": "Белый", "screen_name": "id92661227", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "13.6.1985", "nickname": "", "id": 92661227, "last_seen": {"platform": 4, "time": 1441724933}}

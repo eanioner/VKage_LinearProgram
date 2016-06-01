@@ -1,0 +1,1 @@
+{"city": {"id": 37, "title": "Владивосток"}, "first_name": "Ксюша", "last_name": "Язова", "screen_name": "yazova", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "13.11", "nickname": "", "id": 914538, "last_seen": {"platform": 2, "time": 1441686468}}

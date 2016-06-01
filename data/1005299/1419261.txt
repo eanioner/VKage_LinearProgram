@@ -1,0 +1,1 @@
+{"city": {"id": 1, "title": "Москва"}, "first_name": "Марина", "last_name": "Миронова", "screen_name": "ya_mausik", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "16.3", "nickname": "", "id": 1419261, "last_seen": {"platform": 7, "time": 1441706099}}

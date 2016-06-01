@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Евгения", "last_name": "Степанова", "screen_name": "zdonova", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "12.10.1983", "nickname": "", "id": 2175192, "last_seen": {"platform": 1, "time": 1441746779}}

@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Сергей", "last_name": "Грицаенко", "screen_name": "id114012190", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "7.3.1976", "nickname": "", "id": 114012190, "last_seen": {"platform": 7, "time": 1396070407}}

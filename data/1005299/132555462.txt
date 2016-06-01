@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Валентина", "last_name": "Несторук", "screen_name": "id132555462", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "22.2.1957", "nickname": "", "id": 132555462, "last_seen": {"platform": 4, "time": 1439852693}}

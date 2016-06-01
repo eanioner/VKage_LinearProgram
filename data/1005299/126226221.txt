@@ -1,0 +1,1 @@
+{"city": {"id": 1, "title": "Москва"}, "first_name": "Влад", "last_name": "Малашенко", "screen_name": "swimmerman", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "13.3", "nickname": "", "id": 126226221, "last_seen": {"platform": 7, "time": 1441741858}}

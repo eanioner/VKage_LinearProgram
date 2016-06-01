@@ -1,0 +1,1 @@
+{"city": {"id": 2, "title": "Санкт-Петербург"}, "first_name": "Саша", "last_name": "Фёдорова", "screen_name": "id28822267", "country": {"id": 1, "title": "Россия"}, "sex": 1, "bdate": "29.8.1978", "nickname": "", "id": 28822267, "last_seen": {"platform": 4, "time": 1441752081}}

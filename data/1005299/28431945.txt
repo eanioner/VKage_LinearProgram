@@ -1,0 +1,1 @@
+{"city": {"id": 134, "title": "Ставрополь"}, "first_name": "Игорь", "last_name": "Соловьев", "screen_name": "igor.solovev", "country": {"id": 1, "title": "Россия"}, "sex": 2, "bdate": "23.11.1991", "nickname": "", "id": 28431945, "last_seen": {"platform": 2, "time": 1441698629}}
